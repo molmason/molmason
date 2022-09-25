@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...using computation in design of materials and manufacturing
 - 🌱 I’m currently learning ...webdesign, simulating transformable structures + material quality, bio-material fabrication
 - 💞️ I’m looking to collaborate on ...public art installations, large-scale additive manufacturing
-- 📫 How to reach me ...messenger pigeon
+- 📫 How to reach me ...email
 
 <!---
 molmason/molmason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
